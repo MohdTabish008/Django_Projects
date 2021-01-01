@@ -4,4 +4,4 @@ This repository contains basic Django Projects.As I have started learning Django
 Commit-1;
 
 As we all know django has a MTV(models,templates,views) work flow.I have learned the concept & applications of templates & views. I have created simple project in which I have injected my Django based data into my html page.
-This is stored in the master branch of the django project repository.
+This is stored in the master branch of the django project repository.Authentication user ,login ,logout is studied.
