@@ -5,4 +5,4 @@ Commit-1:
 
 As we all know django has a MTV(models,templates,views) work flow.I have learned the concept & applications of templates & views. I have created simple project in which I have injected my Django based data into my html page.
 This is stored in the main branch of the django project repository.Authentication user ,login ,logout is studied.Final blog is ready.
-E-Commerce website is under progress.Target is to display products as a slideshow.Next target is to add a cart.Next, target is to use JavaScript To Increment items in our cart
+E-Commerce website is under progress.Target is to display products as a slideshow.Next target is to add a cart.Next, target is to use JavaScript To Increment items in our cart.
