@@ -5,5 +5,5 @@ Commit-1:
 
 As we all know django has a MTV(models,templates,views) work flow.I have learned the concept & applications of templates & views. I have created simple project in which I have injected my Django based data into my html page.
 This is stored in the main branch of the django project repository.Authentication user ,login ,logout is studied.Final blog is ready.
-E-Commerce website is under progress.Target is to display products as a slideshow.Next target is to add a cart.Next, then the target is to use JavaScript To Increment items in our cart. Now adding and removing the items from cart is being worked on.Java Script is fundamental building block of any e-commerce wevbsite
-
+E-Commerce website is under progress.Target is to display products as a slideshow.Next target is to add a cart.Next, then the target is to use JavaScript To Increment items in our cart. Now adding and removing the items from cart is being worked on.Java Script is fundamental building block of any e-commerce website.JSON and Jquery
+are very very  important for a well structured e-commerce site.
